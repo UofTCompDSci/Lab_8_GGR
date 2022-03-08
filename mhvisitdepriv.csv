@@ -1,0 +1,137 @@
+Neighbid,name,Male.2,Female.2,DEPRIVATION,depriv_HL
+1,West Humber-Clairville,6.6,8.2,0.162,High
+2,Mount Olive-Silverstone-Jamestown,7.0,8.6,1.0195,High
+3,Thistletown-Beaumond Heights,6.4,9.2,0.346,High
+4,Rexdale-Kipling,7.7,10.0,0.4704,High
+5,Elms-Old Rexdale,7.4,9.6,0.804,High
+6,Kingsview Village-The Westway,6.5,8.5,0.6348,High
+7,Willowridge-Martingrove-Richview,6.5,9.1,0.1251,Low
+8,Humber Heights-Westmount,7.2,10.7,0.2773,High
+9,Edenbridge-Humber Valley,6.7,9.6,-0.6324,Low
+10,Princess-Rosethorn,6.7,9.2,-0.8376,Low
+11,Eringate-Centennial-West Deane,6.1,9.4,-0.1938,Low
+12,Markland Wood,6.5,9.8,-0.6891,Low
+13,Etobicoke West Mall,6.2,9.5,0.0808,Low
+14,Islington-City Centre West,6.8,9.5,-0.2154,Low
+15,Kingsway South,6.3,9.0,-1.1053,Low
+16,Stonegate-Queensway,6.6,9.8,-0.3549,Low
+17,Mimico,7.8,10.2,-0.3605,Low
+18,New Toronto,8.1,10.9,0.3715,High
+19,Long Branch,7.4,10.8,0.0274,Low
+20,Alderwood,8.2,10.7,-0.1496,Low
+21,Humber Summit,6.6,8.5,0.7854,High
+22,Humbermede,7.0,9.4,1.0175,High
+23,Pelmo Park-Humberlea,7.3,11.0,0.2218,High
+24,Black Creek,7.1,8.8,1.975,High
+25,Glenfield-Jane Heights,7.2,9.2,1.7432,High
+26,Downsview-Roding-CFB,7.7,9.8,0.8603,High
+27,York University Heights,7.2,8.7,0.7038,High
+28,Rustic,7.8,10.3,1.6102,High
+29,Maple Leaf,8.3,10.4,0.4682,High
+30,Brookhaven-Amesbury,7.6,10.1,0.9711,High
+31,Yorkdale-Glen Park,6.9,9.4,0.7841,High
+32,Englemount-Lawrence,7.2,8.6,0.463,High
+33,Clanton Park,7.1,8.5,-0.0949,Low
+34,Bathurst Manor,7.3,9.7,-0.1145,Low
+35,Westminster-Branson,6.5,8.5,0.1374,High
+36,Newtonbrook West,6.4,8.0,-0.0577,Low
+37,Willowdale West,6.0,8.1,-0.4753,Low
+38,Lansing-Westgate,6.7,8.2,-0.7486,Low
+39,Bedford Park-Nortown,6.4,8.2,-0.8649,Low
+40,St.Andrew-Windfields,5.8,7.4,-0.7681,Low
+41,Bridle Path-Sunnybrook-York Mills,6.0,7.4,-1.1169,Low
+42,Banbury-Don Mills,6.6,8.4,-0.8422,Low
+43,Victoria Village,8.6,10.7,0.5699,High
+44,Flemingdon Park,6.7,8.1,1.0171,High
+45,Parkwoods-Donalda,6.7,9.1,0.0925,Low
+46,Pleasant View,6.1,7.8,-0.0475,Low
+47,Don Valley Village,5.7,7.3,-0.1937,Low
+48,Hillcrest Village,5.8,7.6,-0.2264,Low
+49,Bayview Woods-Steeles,6.3,8.6,-0.3566,Low
+50,Newtonbrook East,6.4,7.8,-0.3304,Low
+51,Willowdale East,5.4,7.1,-0.744,Low
+52,Bayview Village,5.7,7.7,-0.5818,Low
+53,Henry Farm,5.6,7.0,0.0372,Low
+54,O'Connor-Parkview,9.3,11.6,0.3788,High
+55,Thorncliffe Park,8.2,10.1,0.5524,High
+56,Leaside-Bennington,5.9,8.1,-0.999,Low
+57,Broadview North,7.7,9.5,0.2651,High
+58,Old East York,7.6,9.8,-0.1684,Low
+60,Woodbine-Lumsden,8.1,9.7,0.3824,High
+62,East End-Danforth,8.7,10.8,0.0762,Low
+63,The Beaches,8.2,10.7,-0.8092,Low
+64,Woodbine Corridor,8.3,10.1,0.0483,Low
+65,Greenwood-Coxwell,8.1,10.5,0.6604,High
+67,Playter Estates-Danforth,7.4,9.5,-0.564,Low
+68,North Riverdale,7.2,9.1,-0.4491,Low
+69,Blake-Jones,9.2,10.2,0.7877,High
+70,South Riverdale,7.9,9.1,0.5785,High
+71,Cabbagetown-South St. James Town,8.1,9.3,-0.6004,Low
+72,Regent Park,8.4,9.4,3.4169,High
+73,Moss Park,9.3,9.7,-0.1829,Low
+74,North St. James Town,7.4,8.3,0.8792,High
+75,Church-Yonge Corridor,7.8,8.7,-0.7972,Low
+76,Bay Street Corridor,5.2,6.6,-0.8121,Low
+77,Waterfront Communities-The Island,6.2,8.0,-1.1519,Low
+78,Kensington-Chinatown,7.4,9.1,0.8536,High
+79,University,6.4,7.3,-0.3796,Low
+80,Palmerston-Little Italy,6.9,9.1,-0.0574,Low
+81,Trinity-Bellwoods,7.4,9.2,0.607,High
+82,Niagara,6.9,8.8,-1.1045,Low
+83,Dufferin Grove,7.2,10.2,0.1977,High
+84,Little Portugal,8.0,10.1,0.9837,High
+85,South Parkdale,8.3,9.9,1.089,High
+86,Roncesvalles,8.0,9.4,0.251,High
+87,High Park-Swansea,7.6,9.9,-0.5883,Low
+88,High Park North,7.0,9.3,-0.6183,Low
+89,Runnymede-Bloor West Village,7.4,10.3,-0.5294,Low
+90,Junction Area,7.7,10.1,0.117,Low
+91,Weston-Pellam Park,8.5,10.6,1.1132,High
+92,Corso Italia-Davenport,7.9,10.1,0.8209,High
+93,Dovercourt-Wallace Emerson-Junction,7.5,10.3,0.7375,High
+94,Wychwood,7.7,9.8,0.1848,High
+95,Annex,7.0,8.4,-0.791,Low
+96,Casa Loma,6.5,8.4,-1.0664,Low
+97,Yonge-St.Clair,7.1,8.4,-1.206,Low
+98,Rosedale-Moore Park,5.6,8.2,-1.2404,Low
+99,Mount Pleasant East,6.1,8.4,-1.0134,Low
+100,Yonge-Eglinton,6.2,8.0,-0.9839,Low
+101,Forest Hill South,6.6,8.5,-1.0186,Low
+102,Forest Hill North,6.8,9.3,-0.5432,Low
+103,Lawrence Park South,5.9,7.7,-1.0156,Low
+104,Mount Pleasant West,7.0,8.8,-0.8902,Low
+105,Lawrence Park North,5.5,7.9,-1.0568,Low
+106,Humewood-Cedarvale,7.3,8.6,-0.3766,Low
+108,Briar Hill - Belgravia,7.3,9.5,0.2789,High
+109,Caledonia-Fairbank,7.0,10.1,0.9797,High
+110,Keelesdale-Eglinton West,7.4,10.1,0.9394,High
+111,Rockcliffe-Smythe,8.3,11.4,1.3067,High
+112,Beechborough-Greenbrook,7.9,10.4,1.3161,High
+113,Weston,8.7,10.9,1.041,High
+114,Lambton Baby Point,7.3,10.3,0.2736,High
+115,Mount Dennis,7.4,10.5,1.1457,High
+116,Steeles,4.7,6.6,0.0811,Low
+117,L'Amoreaux,5.5,7.6,0.4379,High
+118,Tam O'Shanter-Sullivan,5.6,8.0,0.2798,High
+119,Wexford/Maryvale,7.3,9.7,0.3204,High
+120,Clairlea-Birchmount,8.0,9.6,0.2825,High
+121,Oakridge,8.8,9.9,1.5366,High
+122,Birchcliffe-Cliffside,8.0,11.0,-0.0573,Low
+123,Cliffcrest,7.6,9.7,0.2138,High
+124,Kennedy Park,7.6,10.1,0.9641,High
+125,Ionview,7.7,9.5,0.7401,High
+126,Dorset Park,6.9,8.7,0.4422,High
+127,Bendale,6.8,9.0,0.3118,High
+128,Agincourt South-Malvern West,5.1,6.9,0.2869,High
+129,Agincourt North,5.0,6.8,0.0511,Low
+130,Milliken,4.8,6.6,0.1941,High
+131,Rouge,6.1,7.9,-0.362,Low
+132,Malvern,5.9,7.7,0.3675,High
+133,Centennial Scarborough,6.2,8.7,-0.5592,Low
+134,Highland Creek,5.9,8.0,-0.36,Low
+135,Morningside,6.6,8.4,0.4911,High
+136,West Hill,7.4,10.3,0.8138,High
+137,Woburn,6.2,8.3,0.5257,High
+138,Eglinton East,7.2,9.4,1.0344,High
+139,Scarborough Village,8.0,10.4,1.3915,High
+140,Guildwood,6.5,9.8,-0.4834,Low
